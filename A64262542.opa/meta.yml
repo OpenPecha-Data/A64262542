@@ -1,0 +1,34 @@
+id: A64262542
+title: Prayer for the Fulfilment of Aspirations
+type: translation
+pechas:
+- IFFC2E79F
+- IE538A767
+- I66E8D5DE
+- IA8606A1C
+- IBCF91CB6
+- I4C1A0CDF
+- I3A3489A4
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:54:09.041253
+  last_modified_at: 2023-01-04 11:54:09.041263
+  collections:
+  - Fourteenth Dalai Lama Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IFFC2E79F/9C0A: F2D2
+  IE538A767/AB0A: F2D2
+  I66E8D5DE/F0A2: F2D2
+  IA8606A1C/994E: F2D2
+  IBCF91CB6/9945: F2D2
+  I4C1A0CDF/EDD4: F2D2
+  I3A3489A4/5973: F2D2
